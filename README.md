@@ -1,7 +1,7 @@
 ### <a href="https://app.patika.dev/ismailoksuz">Patika Profilim</a>
 # Kodluyoruz-Frontend-Web-Development
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası ve eğitim kapsamında yaptığım çalışmaları barındırıyor.
 
 ![github](figures/github.png)
 
